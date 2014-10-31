@@ -1,0 +1,8 @@
+1Lq3
+0Rq0
+Halt
+0Lq3
+1Rq1
+1Rq2
+0Rq1
+Halt
